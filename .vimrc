@@ -7,7 +7,6 @@ set number
 
 call plug#begin('~/.vim/plugged')
 
-
 Plug 'guns/vim-clojure-static'
 Plug 'rhysd/vim-crystal'
 Plug 'vim-javascript'
