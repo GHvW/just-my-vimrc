@@ -3,7 +3,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
-"github.com/junegunn/vim-plug to install vim plug
+set number
 
 call plug#begin('~/.vim/plugged')
 
