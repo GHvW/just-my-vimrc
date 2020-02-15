@@ -22,6 +22,8 @@ Plug 'drewtemelmeyer/palenight.vim'
 Plug 'jacoborus/tender.vim'
 
 Plug 'luochen1990/rainbow'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 
 call plug#end()
 
