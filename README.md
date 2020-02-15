@@ -17,6 +17,7 @@ Plugins I'm using or just like:
 
 * [ayu.vim](https://github.com/ayu-theme/ayu-vim)
 * [bluewery](https://github.com/relastle/bluewery.vim)
+* [elm-vim](https://github.com/ElmCast/elm-vim)
 * [gruvbox](https://github.com/morhetz/gruvbox)
 * [nord-vim](https://github.com/arcticicestudio/nord-vim)
 * [onedark.vim](https://github.com/joshdick/onedark.vim)
