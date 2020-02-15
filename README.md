@@ -22,6 +22,7 @@ Plugins I'm using or just like:
 * [onedark.vim](https://github.com/joshdick/onedark.vim)
 * [palenight.vim](https://github.com/drewtempelmeyer/palenight.vim)
 * [tender](https://github.com/jacoborus/tender.vim)
+* [vim-colors-xcode](https://github.com/arzg/vim-colors-xcode)
 
 ## Syntax Files
 
@@ -47,6 +48,9 @@ Plugins I'm using or just like:
 
 #### Rust
 * [rust.vim](https://github.com/rust-lang/rust.vim)
+
+#### Swift
+* [swift-vim](https://github.com/arzg/vim-swift)
 
 #### TypeScript
 * [typescript-vim](https://github.com/leafgarland/typescript-vim)
