@@ -20,6 +20,8 @@ Plug 'joshdick/onedark.vim'
 Plug 'drewtemelmeyer/palenight.vim'
 Plug 'jacoborus/tender.vim'
 
+Plug 'luochen1990/rainbow'
+
 call plug#end()
 
 if (has("termguicolors"))
@@ -27,6 +29,8 @@ if (has("termguicolors"))
     
     "let ayucolor="mirage"
 endif
+
+let g:rainbow_active = 0
 
 syntax enable
 colorscheme tender
