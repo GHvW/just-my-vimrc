@@ -35,6 +35,7 @@ Plugins I'm using or just like:
 * [vim-racket](https://github.com/wlangstroth/vim-racket)
 
 #### Ruby
+* [vim-ruby](https://github.com/vim-ruby/vim-ruby)
 
 #### Rust
 * [rust.vim](https://github.com/rust-lang/rust.vim)
