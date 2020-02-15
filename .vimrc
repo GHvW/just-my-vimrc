@@ -9,6 +9,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'guns/vim-clojure-static'
 Plug 'rhysd/vim-crystal'
+Plug 'ElmCast/elm-vim'
 Plug 'vim-javascript'
 Plug 'wlangstroth/vim-racket'
 Plug 'vim-ruby/vim-ruby'
