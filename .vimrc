@@ -15,13 +15,17 @@ Plug 'wlangstroth/vim-racket'
 Plug 'rust-lang/rust.vim'
 Plug 'leafgarland/typescript-vim'
 
+Plug 'ayu-theme/ayu-vim'
 Plug 'joshdick/onedark.vim'
+Plug 'drewtemelmeyer/palenight.vim'
 Plug 'jacoborus/tender.vim'
 
 call plug#end()
 
 if (has("termguicolors"))
     set termguicolors
+    
+    "let ayucolor="mirage"
 endif
 
 syntax enable
