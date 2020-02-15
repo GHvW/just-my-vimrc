@@ -12,6 +12,7 @@ Plug 'guns/vim-clojure-static'
 Plug 'rhysd/vim-crystal'
 Plug 'vim-javascript'
 Plug 'wlangstroth/vim-racket'
+Plug 'vim-ruby/vim-ruby'
 Plug 'rust-lang/rust.vim'
 Plug 'leafgarland/typescript-vim'
 
