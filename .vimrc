@@ -14,6 +14,7 @@ Plug 'vim-javascript'
 Plug 'wlangstroth/vim-racket'
 Plug 'vim-ruby/vim-ruby'
 Plug 'rust-lang/rust.vim'
+Plug 'arzg/vim-swift'
 Plug 'leafgarland/typescript-vim'
 
 Plug 'ayu-theme/ayu-vim'
