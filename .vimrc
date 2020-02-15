@@ -21,6 +21,7 @@ Plug 'relastle/bluewery.vim'
 Plug 'joshdick/onedark.vim'
 Plug 'drewtemelmeyer/palenight.vim'
 Plug 'jacoborus/tender.vim'
+Plug 'arzg/vim-colors-xcode'
 
 Plug 'luochen1990/rainbow'
 Plug 'vim-airline/vim-airline'
