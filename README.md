@@ -12,6 +12,8 @@ Plugins I'm using or just like:
 ## Syntax Highlighting
 
 * [ayu.vim](https://github.com/ayu-theme/ayu-vim)
+* [gruvbox](https://github.com/morhetz/gruvbox)
+* [nord-vim](https://github.com/arcticicestudio/nord-vim)
 * [onedark.vim](https://github.com/joshdick/onedark.vim)
 * [palenight.vim](https://github.com/drewtempelmeyer/palenight.vim)
 * [tender](https://github.com/jacoborus/tender.vim)
@@ -24,6 +26,7 @@ Plugins I'm using or just like:
 * [vim-crystal](https://github.com/rhysd/vim-crystal)
 
 #### JavaScript
+* [vim-javascript](https://github.com/pangloss/vim-javascript)
 
 #### Python
 
@@ -36,3 +39,4 @@ Plugins I'm using or just like:
 * [rust.vim](https://github.com/rust-lang/rust.vim)
 
 #### TypeScript
+* [typescript-vim](https://github.com/leafgarland/typescript-vim)
