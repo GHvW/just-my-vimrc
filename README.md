@@ -9,6 +9,8 @@ To install on a unix like system, use the following command from the vim-plug do
 
 Plugins I'm using or just like:
 
+* [rainbow](https://github.com/luochen1990/rainbow)
+
 ## Syntax Highlighting
 
 * [ayu.vim](https://github.com/ayu-theme/ayu-vim)
