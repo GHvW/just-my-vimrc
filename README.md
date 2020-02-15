@@ -11,6 +11,7 @@ To install on a unix like system, use the following command from the vim-plug do
 Plugins I'm using or just like:
 
 * [rainbow](https://github.com/luochen1990/rainbow)
+* [vim-airline](https://github.com/vim-airline/vim-airline) (try [lightline.vim](https://github.com/itchyny/lightline.vim) if you don't want airline)
 
 ## Syntax Highlighting
 
