@@ -35,6 +35,7 @@ if (has("termguicolors"))
 endif
 
 let g:rainbow_active = 0
+"let g:airline_theme = 'bluewery'
 
 syntax enable
 colorscheme tender
