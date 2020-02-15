@@ -21,6 +21,7 @@ Plugins I'm using or just like:
 ## Syntax Files
 
 #### Clojure
+* [vim-clojure-static](https://github.com/guns/vim-clojure-static)
 
 #### Crystal
 * [vim-crystal](https://github.com/rhysd/vim-crystal)
