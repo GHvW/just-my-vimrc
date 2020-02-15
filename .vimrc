@@ -16,6 +16,7 @@ Plug 'rust-lang/rust.vim'
 Plug 'leafgarland/typescript-vim'
 
 Plug 'ayu-theme/ayu-vim'
+Plug 'relastle/bluewery.vim'
 Plug 'joshdick/onedark.vim'
 Plug 'drewtemelmeyer/palenight.vim'
 Plug 'jacoborus/tender.vim'
